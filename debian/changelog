@@ -1,0 +1,5 @@
+phantomjs (1.5.0~lucid~ppa201205201232) lucid; urgency=low
+
+  * Initial build, installs into into /opt/phantomjs
+
+ -- Dave King <dave.king@rackspace.com>  Sat, 19 May 2012 18:13:12 -0600
